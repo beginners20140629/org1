@@ -4,6 +4,8 @@ Practice
 ___
 
 #team bignner menber
-*津田さん
+*津田さん(member)
 *松野(owner)
+
+
 
