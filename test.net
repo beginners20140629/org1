@@ -18,6 +18,7 @@
 *.SUBCKT git_test IN OUT 
 r000 IN OUT 1K
 
+r001 IN OUT 1K  ** userx changed
 *----------------------------------------------*
 *      Cross Reference List for node No.       *
 *----------------------------------------------*
